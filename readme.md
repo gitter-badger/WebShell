@@ -16,6 +16,8 @@ WebShell is an OS X WebView shell, which help you easily bundle the Web Apps to 
 
 ## Requirements
 
+[![Join the chat at https://gitter.im/djyde/WebShell](https://badges.gitter.im/djyde/WebShell.svg)](https://gitter.im/djyde/WebShell?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 - Xcode 7+ (Swift 2.0+ support)
 
 ## Quick Start
